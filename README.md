@@ -48,7 +48,7 @@ de confinamento pelo Covid-19 mais interessante, também podendo compartilhar es
  </p>
 
 
-<h4>Feito com ❤ por Thalles Gabriel 🔥 </h4>
+<h4>Feito por Dennys</h4>
 
 
 
