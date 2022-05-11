@@ -35,10 +35,11 @@ de confinamento pelo Covid-19 mais interessante, também podendo compartilhar es
 <h2>📱 Minhas redes sociais e contatos:</h2>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/dennys-bueno-6a3228204/" target="_blank" >
+   <a href="https://github.com/dennysbueno" target="_blank" >
     <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
 
-  <a href="https://github.com/dennysbueno" target="_blank" >
+
+  <a href="https://www.linkedin.com/in/dennys-bueno-6a3228204/" target="_blank" >
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>        
     
   <a href="mailto:dennys.bueno8@gmail.com" target="_blank" >
