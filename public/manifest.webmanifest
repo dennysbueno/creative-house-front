@@ -1,0 +1,19 @@
+{
+  "short_name": "creative_house",
+  "name": "Casa Criativa",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "theme-color": "#ffffff",
+  "background_color": "#000000",
+  "background-color": "#000000",
+  "description": "Casa Criativa - idéas para a crise",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "225x225"
+    }
+  ]
+
+}
